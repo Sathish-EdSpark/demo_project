@@ -1,1 +1,2 @@
+temporary file contents are moved to test3.txt.
 
